@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Connect 3 Game</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">Play Again</string>
+</resources>
